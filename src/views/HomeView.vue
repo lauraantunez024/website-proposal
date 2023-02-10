@@ -1,5 +1,5 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import Hero from '../components/Hero.vue'
 </script>
 
 <template>
